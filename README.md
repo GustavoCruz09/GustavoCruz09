@@ -3,7 +3,7 @@
 <h1 aling="center">Olá, eu sou o Gustavo da Cruz 😁</h1>
 </div>
  
-<p align="center"><strong>Bem Vindo ao meu GitHub</strong><br> Estou a mais de um ano estudando tecnologia e a cada dia que passa me apaixono ❤️ mais pela área e fico com ainda mais vontade de ingressar no mercado de trabalho. Por conta da minha experiencia no Movimento Escoteiro do Brasil ⚜️ desenvolvi características de liderança e trabalho em equipe e em minha vida acadêmica, graças a dedicação e empenho, sempre apresentei um ótimo desempenho. <br> De uma olhada nos meus projetos</p>&nbsp;
+<p align="center"><strong>Bem Vindo ao meu GitHub</strong><br> Estou a mais de um ano estudando tecnologia 🖥️ e a cada dia que passa me apaixono ❤️ mais pela área e fico com ainda mais vontade de ingressar no mercado de trabalho. Por conta da minha experiencia no Movimento Escoteiro do Brasil ⚜️ desenvolvi características de liderança e trabalho em equipe e em minha vida acadêmica, graças a dedicação e empenho, sempre apresentei um ótimo desempenho. <br> De uma olhada nos meus projetos</p>&nbsp;
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCruz09&layout=compact)
@@ -48,8 +48,7 @@
 
 ## Contato:
 
-<div> 
 <a href = "mailto:contato.dacruz.gustavo09@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gustavo-da-cruz-santos-250351225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+
  
